@@ -3,3 +3,7 @@
 *.o
 *.obj
 *.out
+
+# Excluded problem files
+Week_2/out_of_order_pairs.cpp
+Week_2/smaller_values_to_right.cpp
